@@ -21,3 +21,5 @@ Passo a passo para gerar um artigo com layout rico
 - Coloque 3 hashtags que façam sentido
 
   Ilustrações de capa: gerada pela lexica.art ajustada com Powerpoint
+
+  Link do artigo: https://web.dio.me/articles/da-informacao-a-previsao-o-avanco-da-analise-de-dados?back=%2Farticles&open-modal=true&page=1&order=oldest
